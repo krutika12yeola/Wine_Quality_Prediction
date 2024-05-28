@@ -1,0 +1,1 @@
+This project uses machine learning to predict the quality of red and white wines based on their chemical properties. By applying k-fold cross-validation using Random Forest , the model achieves an accuracy of 89%, indicating good generalization with low bias and variance. This helps winemakers and consumers by providing reliable quality assessments.
